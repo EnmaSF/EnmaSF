@@ -6,6 +6,8 @@
 <p align="left">
 🎓 Estudiante de desarrollo de software / Software development student
 
+🎓 Estudiante del Instituto Nacional SENATI / Student at the SENATI National Institute
+
 <!--Intro end-->
   </p>
 <br>
