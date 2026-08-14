@@ -1,4 +1,4 @@
-## Hi, I'm Enmanuel Suarez Franco 👋
+## Hi 👋
 
 <!--
 **EnmaSF/EnmaSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
